@@ -1,4 +1,3 @@
-# portfolio
 # Karthikeyan Nagaraju's Data Analytics Portfolio
 
 ## About Me
